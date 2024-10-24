@@ -14,7 +14,7 @@ const server = createServer((req, res) => {
 // Allow CORS for Socket.IO
 const io = new Server(server, {
   cors: {
-    origin: ["https://video.mediscan.care:3000", "http://localhost:3000"], // Frontend URL
+    origin: ["https://mediscan.care", "http://localhost:3000"], // Frontend URL
     methods: ["GET", "POST"],
   },
 });
