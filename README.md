@@ -27,6 +27,9 @@ For the best demo experience, visit [our site](https://mediscan.care) :)
 - ✅ **WebSockets**: [Socket.IO](https://socket.io/).
 - ✅ **Video Communication**: [WebRTC](https://webrtc.org/) + [PeerJS](https://peerjs.com/).
 
+## Live URL For Video Server
+https://video.mediscan.care/
+
 ---
 ## 🙌 Contributors 
 <a href="https://github.com/navincodesalot"><img height="128" src="https://avatars.githubusercontent.com/u/67123306?v=4"/></a>
